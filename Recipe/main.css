@@ -1,0 +1,38 @@
+h1{
+    color:rgb(104, 78, 78);
+    text-align: left;
+    margin-left:290px;
+    font-size: 50px;
+    font-weight: 750;
+    font-family: Tahoma, sans-serif
+}
+.content{
+    float:center;
+    text-align: left;
+    line-height: 23px;
+    font-family: 'Helvetica Neue', sans-serif;
+    padding-left: 850px;
+    color: rgb(82, 80, 80);
+}
+h2{
+    color:rgb(104, 78, 78);
+}
+h4{
+    color:rgb(104, 78, 78);
+}
+.picture{
+    float:left;
+    margin-top:1px;
+    margin-left: 300px;
+}
+.picture figcaption{
+    color: darkgray
+}
+a{
+    text-decoration: none;
+    color:rosybrown
+}
+a:hover{
+    color: darksalmon;
+    text-decoration: none;
+}
